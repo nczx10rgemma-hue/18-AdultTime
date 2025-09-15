@@ -4,3 +4,5 @@ cd adult-search-prototype
 mkdir backend
 cd backend
 npm init -y
+
+npm install express mongoose bcrypt jsonwebtoken dotenv helmet cors node-fetch
